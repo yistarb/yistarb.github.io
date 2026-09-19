@@ -1,0 +1,11 @@
+title: Jamie's Blog
+author: Jamie
+description: >-
+  Notes on games, code, and whatever else.
+
+theme: minima
+plugins:
+  - jekyll-feed
+
+baseurl: ""
+url: "https://yistarb.github.io"
