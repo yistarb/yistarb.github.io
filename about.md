@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-About this blog.
+This is Jamie, a solo board gamer. I prefer focusing on few games and write about them, with custom projects on them.
